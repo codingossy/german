@@ -13,6 +13,21 @@
     "lint": {},
     "clean": {
       "cache": false
+    },
+    "nextjs-app-1": {
+      "path": "apps/web",
+      "type": "web",
+      "framework": "nextjs"
+    },
+    "nextjs-admin-app": {
+      "path": "apps/admin",
+      "type": "web",
+      "framework": "nextjs"
+    },
+    "react-native-app": {
+      "path": "apps/native",
+      "type": "mobile",
+      "framework": "react-native"
     }
   }
 }

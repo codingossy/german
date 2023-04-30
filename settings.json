@@ -1,0 +1,11 @@
+{
+    "json.schemas": [
+      {
+        "fileMatch": [
+          "/turbo.json"
+        ],
+        "url": "https://turbo.build/schema.json"
+      }
+    ]
+  }
+  
